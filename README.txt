@@ -17,6 +17,8 @@
 
 ## Repository Contents
 
+* Convolutional Neural Network (CNN) 
+
 * Airline Data Visualization Project - Tableau
 
 * Decision Tree
@@ -26,3 +28,5 @@
 * Python Joke App
 
 * Python Weather App
+
+* Regression and LASSO Models with Python 
