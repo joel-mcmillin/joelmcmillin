@@ -30,3 +30,5 @@
 * Python Weather App
 
 * Regression and LASSO Models with Python 
+
+* K Nearest Neighbor (KNN) with ALS Data
